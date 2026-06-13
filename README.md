@@ -2,7 +2,7 @@
 
 - 📫 How to reach me **lujain@umich.edu**
 
-- 👀 I’m currently a CSE student at UMich, and I previously interned at Amazon!
+- 👀 I’m currently a CS student at UMich, and an SDE intern at Amazon!
 
 - 🌱 I’m currently learning C++ and Python
 
